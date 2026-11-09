@@ -1,0 +1,19 @@
+{
+  "cpu_only_analysis": true,
+  "formal_benchmark_completed": false,
+  "startup_observation": {
+    "n": 1,
+    "time_to_first_validated_media_seconds": 799.1114614009857,
+    "pre_request_preparation_seconds": 579.2599155919858,
+    "first_request_with_validation_seconds": 219.85154580899996,
+    "time_to_first_media_cu_estimate": 2.2308528297444186,
+    "preparation_cu_estimate": 1.6171005976942936,
+    "first_request_cu_estimate": 0.6137522320501249
+  },
+  "duration_cu_estimate": 17.260054153074822,
+  "balance_delta_cu_observed": 16.764852272868694,
+  "accepted_main_clips": 0,
+  "controlled_hot_sample_count": 0,
+  "warning": "Research observations differ in prompt, seed and cache state. No reliable P95 or production yield inferred.",
+  "unreconciled_difference_cu": 0.4952018802061282
+}

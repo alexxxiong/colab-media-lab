@@ -1,0 +1,56 @@
+{
+  "5": {
+    "title": "先吃饭，再思考",
+    "fractions": [
+      0.2,
+      0.3,
+      0.3,
+      0.2
+    ],
+    "boundaries": [
+      0,
+      1.0,
+      2.5,
+      4.0,
+      5
+    ],
+    "dialogue": "先吃饭，再思考！",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 5 seconds. From 0 to 1s she blinks gently and looks at the viewer. From 1 to 2.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 2.5 to 4s she lowers her gaze to the rice bowl and smiles with satisfaction. From 4 to 5s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music."
+  },
+  "10": {
+    "title": "先吃饭，再思考",
+    "fractions": [
+      0.2,
+      0.3,
+      0.3,
+      0.2
+    ],
+    "boundaries": [
+      0,
+      2.0,
+      5.0,
+      8.0,
+      10
+    ],
+    "dialogue": "先吃饭，再思考！",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 10 seconds. From 0 to 2s she blinks gently and looks at the viewer. From 2 to 5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 5 to 8s she lowers her gaze to the rice bowl and smiles with satisfaction. From 8 to 10s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music."
+  },
+  "15": {
+    "title": "先吃饭，再思考",
+    "fractions": [
+      0.2,
+      0.3,
+      0.3,
+      0.2
+    ],
+    "boundaries": [
+      0,
+      3.0,
+      7.5,
+      12.0,
+      15
+    ],
+    "dialogue": "先吃饭，再思考！",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 15 seconds. From 0 to 3s she blinks gently and looks at the viewer. From 3 to 7.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 7.5 to 12s she lowers her gaze to the rice bowl and smiles with satisfaction. From 12 to 15s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music."
+  }
+}

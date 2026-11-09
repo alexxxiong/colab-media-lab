@@ -1,0 +1,26 @@
+{
+  "checked_date_local": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "plan_name": "Google AI Pro",
+  "colab_compute_units_per_month": 200,
+  "official_entitlement_verified": true,
+  "private_account_credit_origin_verified": false,
+  "sources": [
+    {
+      "url": "https://one.google.com/about/google-ai-plans/",
+      "supports": "AI Pro includes 200 Colab compute units per month"
+    },
+    {
+      "url": "https://support.google.com/googleone/answer/14534406?hl=en",
+      "supports": "AI Pro Colab entitlement and eligibility restrictions"
+    },
+    {
+      "url": "https://research.google.com/colaboratory/faq.html",
+      "supports": "Eligible paid Google AI plans, not storage-only Google One; grants can share a balance"
+    },
+    {
+      "url": "https://developers.googleblog.com/colab-is-now-part-of-your-google-ai-plan/",
+      "supports": "Official 2026-09-22 launch announcement"
+    }
+  ]
+}

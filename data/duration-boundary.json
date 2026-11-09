@@ -1,0 +1,40 @@
+{
+  "method": "Host CPU execution of extracted pure validation functions; no model/GPU inference",
+  "source_revision": "ce970eb715215c79a169658d7aa6c8a96e64891e",
+  "results": [
+    {
+      "seconds_bucket": 5,
+      "requested_frames": 124,
+      "accepted": true,
+      "aligned_frames": 124
+    },
+    {
+      "seconds_bucket": 10,
+      "requested_frames": 243,
+      "accepted": true,
+      "aligned_frames": 243
+    },
+    {
+      "seconds_bucket": 15,
+      "requested_frames": 362,
+      "accepted": true,
+      "aligned_frames": 362
+    },
+    {
+      "seconds_bucket": 20,
+      "requested_frames": 480,
+      "accepted": false,
+      "error": "MiniMax-H3 generates 5-15 seconds at 24 fps; aligned num_frames=481 is outside the accepted 124-362 frame range."
+    },
+    {
+      "seconds_bucket": 20,
+      "requested_frames": 481,
+      "accepted": false,
+      "error": "MiniMax-H3 generates 5-15 seconds at 24 fps; aligned num_frames=481 is outside the accepted 124-362 frame range."
+    }
+  ],
+  "source_sha256": {
+    "packing.py": "93f77eb095ccc6a20a900018cf994351332a4500e6753c7d84f7188916a04e44",
+    "stages/minimax_h3_input_preparation.py": "0e6b5eb090f9c0b2feb559ca3caa0415c107b90284b8dcdd9bafa9598ea7206a"
+  }
+}

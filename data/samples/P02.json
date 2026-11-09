@@ -1,0 +1,23 @@
+{
+  "sample_id": "P02",
+  "input_version": "whale-v1",
+  "seed": 42,
+  "mode": "i2v",
+  "width": 480,
+  "height": 832,
+  "fps": 24,
+  "frames": 124,
+  "video_seconds": 5.166666666666667,
+  "technical_passed": false,
+  "content_passed": null,
+  "generation_seconds": null,
+  "request_seconds": 103.83443063799996,
+  "one_time_adaln_prefetch_seconds": 0,
+  "media_validation_seconds": null,
+  "publish_seconds": 0.020992901000226993,
+  "generation_cu_estimate": null,
+  "worker_peak_allocated_gib": 31.6747727394104,
+  "worker_peak_reserved_gib": 33.427734375,
+  "video_sha256": "",
+  "review": {}
+}

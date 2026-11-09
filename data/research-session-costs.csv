@@ -1,0 +1,3 @@
+session_id,allocated_seconds_observed,allocation_timing_uncertainty_seconds,rate_cu_per_hour_observed,duration_cu_estimate,balance_delta_cu_observed,independently_released
+R01,4683.305907964706,4.937238693237305,10.05,13.074228993068141,13.096363158587081,True
+R02,1499.4000573158264,4.741525411605835,10.05,4.185825160006682,3.6684891142816127,True

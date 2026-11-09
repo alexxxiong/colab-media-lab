@@ -1,0 +1,29 @@
+[
+  {
+    "sample_id": "P01",
+    "request_status": "failed",
+    "diagnosed_cause": "Ninja not on managed environment PATH",
+    "media_created": false
+  },
+  {
+    "sample_id": "P02",
+    "request_status": "failed",
+    "diagnosed_cause": "Precomputed T2V modulation table lacked the I2V reference clock",
+    "media_created": false
+  },
+  {
+    "sample_id": "P03",
+    "request_status": "failed",
+    "diagnosed_cause": "Installed FP4 kernel Python API mismatched pinned FastVideo source",
+    "media_created": false
+  },
+  {
+    "session_id": "R01",
+    "event": "watchdog released VM after billing-monitor TLS transport failure",
+    "later_fix": "bounded transport retries with TLS verification retained; independent release audit"
+  },
+  {
+    "session_id": "R01",
+    "process_exit_note": "Latest stored process exit belonged to an earlier stopped worker; final worker exit was not returned after VM unassignment. Media and per-request records establish technical results."
+  }
+]

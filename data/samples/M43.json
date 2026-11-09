@@ -1,0 +1,46 @@
+{
+  "sample_id": "M43",
+  "input_version": "whale-v2",
+  "seed": 43,
+  "mode": "i2v",
+  "width": 768,
+  "height": 1344,
+  "fps": 24,
+  "frames": 243,
+  "video_seconds": 10.125,
+  "technical_passed": true,
+  "content_passed": false,
+  "generation_seconds": 219.089232144,
+  "request_seconds": 219.85154580899996,
+  "one_time_adaln_prefetch_seconds": 0,
+  "media_validation_seconds": 0.7012529989999621,
+  "publish_seconds": 0.06343281299996306,
+  "generation_cu_estimate": 0.611624106402,
+  "worker_peak_allocated_gib": 42.0501184463501,
+  "worker_peak_reserved_gib": 50.20703125,
+  "video_sha256": "08e740a19f93d13c3a44b90ad4c5406336ab97877611043d3800f4ba675615b8",
+  "review": {
+    "review_method": "Nine decoded frames and unprompted CPU ASR with word timestamps",
+    "reasons": [
+      "Chinese subtitles remain at 3.80 and 5.06 seconds",
+      "Large camera zoom crops feet and tail in the middle of the shot",
+      "ASR detects additional vocalizations beyond the scripted sentence"
+    ]
+  },
+  "media_qa": {
+    "width": 768,
+    "height": 1344,
+    "fps": 24,
+    "frames": 243,
+    "duration_seconds": 10.125,
+    "video_duration_seconds": 10.125,
+    "container_duration_seconds": 10.125,
+    "audio_sample_rate": 32000,
+    "audio_channels": 2,
+    "audio_samples": 324000,
+    "audio_peak": 0.9384778738021851,
+    "audio_rms": 0.10651597276636976,
+    "decoded": true,
+    "content_review": "not_assessed_by_media_decoder; see top-level content_passed and review"
+  }
+}

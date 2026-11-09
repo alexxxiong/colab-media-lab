@@ -1,0 +1,16 @@
+{
+  "project": "minimax-h3",
+  "drive_root": "/content/drive/MyDrive/Colab-Lab",
+  "runtime_root": "/content/colab-lab/minimax-h3",
+  "variants": {
+    "fasth3-v2-nvfp4": {
+      "repo_id": "FastVideo/FastVideo-FastH3-8-Step-V2-NVFP4-Consumer",
+      "revision": "9d0d0d3ae69365aded83fab5562f00f9f06c12aa",
+      "drive_relative_path": "models/base/MiniMax-H3/fasth3-v2-nvfp4"
+    }
+  },
+  "deployment_authorization": {
+    "status": "UNCONFIGURED_READ_UPSTREAM_LICENSE"
+  },
+  "publication_gpu_allocation_disabled_by_default": true
+}

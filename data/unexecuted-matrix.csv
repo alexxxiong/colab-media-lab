@@ -1,0 +1,12 @@
+case,width,height,fps,frames,video_seconds,exploratory,first_samples,hot_samples,status
+480x832-5s,480,832,24,124,5.166666666666667,False,0,0,not_executed_round_closed
+480x832-10s,480,832,24,243,10.125,False,0,0,not_executed_round_closed
+480x832-15s,480,832,24,362,15.083333333333334,False,0,0,not_executed_round_closed
+768x1344-5s,768,1344,24,124,5.166666666666667,False,0,0,not_executed_round_closed
+768x1344-10s,768,1344,24,243,10.125,False,0,0,not_executed_round_closed
+768x1344-15s,768,1344,24,362,15.083333333333334,False,0,0,not_executed_round_closed
+1088x1920-5s,1088,1920,24,124,5.166666666666667,True,0,0,not_executed_round_closed
+1088x1920-10s,1088,1920,24,243,10.125,True,0,0,not_executed_round_closed
+1088x1920-15s,1088,1920,24,362,15.083333333333334,True,0,0,not_executed_round_closed
+832x480-5s,832,480,24,124,5.166666666666667,False,0,0,not_executed_round_closed
+1344x768-10s,1344,768,24,243,10.125,False,0,0,not_executed_round_closed

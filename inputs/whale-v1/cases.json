@@ -1,0 +1,299 @@
+[
+  {
+    "id": "480x832-5s",
+    "width": 480,
+    "height": 832,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "A single continuous 5-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 1.0 seconds she gently blinks and looks at the camera. From 1.0 to 2.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 2.5 to 4.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 4.0 to 5 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "480x832-10s",
+    "width": 480,
+    "height": 832,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "A single continuous 10-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 2.0 seconds she gently blinks and looks at the camera. From 2.0 to 5.0 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 5.0 to 8.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 8.0 to 10 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "480x832-15s",
+    "width": 480,
+    "height": 832,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "A single continuous 15-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 3.0 seconds she gently blinks and looks at the camera. From 3.0 to 7.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 7.5 to 12.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 12.0 to 15 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-5s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "A single continuous 5-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 1.0 seconds she gently blinks and looks at the camera. From 1.0 to 2.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 2.5 to 4.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 4.0 to 5 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-10s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "A single continuous 10-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 2.0 seconds she gently blinks and looks at the camera. From 2.0 to 5.0 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 5.0 to 8.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 8.0 to 10 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-15s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "A single continuous 15-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 3.0 seconds she gently blinks and looks at the camera. From 3.0 to 7.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 7.5 to 12.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 12.0 to 15 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "1088x1920-5s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "A single continuous 5-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 1.0 seconds she gently blinks and looks at the camera. From 1.0 to 2.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 2.5 to 4.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 4.0 to 5 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "1088x1920-10s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "A single continuous 10-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 2.0 seconds she gently blinks and looks at the camera. From 2.0 to 5.0 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 5.0 to 8.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 8.0 to 10 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "1088x1920-15s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "A single continuous 15-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 3.0 seconds she gently blinks and looks at the camera. From 3.0 to 7.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 7.5 to 12.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 12.0 to 15 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "832x480-5s",
+    "width": 832,
+    "height": 480,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-832x480.png",
+    "prompt": "A single continuous 5-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 1.0 seconds she gently blinks and looks at the camera. From 1.0 to 2.5 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 2.5 to 4.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 4.0 to 5 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        274,
+        480
+      ],
+      "offset": [
+        279,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "1344x768-10s",
+    "width": 1344,
+    "height": 768,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1344x768.png",
+    "prompt": "A single continuous 10-second 2D chibi anime shot matching the supplied first frame exactly. Static camera, plain light blue background, one full-body blue-haired whale girl in a navy and white maid dress, one whale tail emerging from behind her body. Her LEFT hand steadily holds a white bowl of rice; her RIGHT hand is free. From 0 to 2.0 seconds she gently blinks and looks at the camera. From 2.0 to 5.0 seconds she naturally waves her RIGHT hand, smiles happily and says in a clear natural bright feminine Mandarin voice: “先吃饭，再思考！” From 5.0 to 8.0 seconds she glances down at her bowl and gives a satisfied, slightly proud smile. From 8.0 to 10 seconds her single whale tail sways once; she looks back at the camera and finishes with a gentle smile. Keep her face, long blue hair, clothing, hands, rice bowl and one tail consistent throughout, all fully visible. Clean dark outlines, soft cel shading. Only soft room ambience and faint clothing movement. No music, no other speech, no subtitles, text, cuts, camera movement, additional characters or extra effects.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        439,
+        768
+      ],
+      "offset": [
+        452,
+        0
+      ]
+    },
+    "exploratory": false
+  }
+]

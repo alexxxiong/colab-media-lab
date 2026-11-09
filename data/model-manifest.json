@@ -1,0 +1,242 @@
+{
+  "repo_id": "FastVideo/FastVideo-FastH3-8-Step-V2-NVFP4-Consumer",
+  "revision": "9d0d0d3ae69365aded83fab5562f00f9f06c12aa",
+  "gated": false,
+  "total_bytes": 63252075552.0,
+  "total_gib": 58.91,
+  "files": [
+    {
+      "path": ".gitattributes",
+      "bytes": 1519,
+      "sha256": null
+    },
+    {
+      "path": "README.md",
+      "bytes": 1768,
+      "sha256": null
+    },
+    {
+      "path": "audio_scheduler/scheduler_config.json",
+      "bytes": 97,
+      "sha256": null
+    },
+    {
+      "path": "audio_vae/config.json",
+      "bytes": 2271,
+      "sha256": null
+    },
+    {
+      "path": "audio_vae/diffusion_pytorch_model.safetensors",
+      "bytes": 605429340,
+      "sha256": "52c59e67ba8de5477c81bfbced0327aabf500f1bfdeefd5ee754529241cb26cb"
+    },
+    {
+      "path": "fastvideo_inference.json",
+      "bytes": 897,
+      "sha256": null
+    },
+    {
+      "path": "model_index.json",
+      "bytes": 2608,
+      "sha256": null
+    },
+    {
+      "path": "modular_model_index.json",
+      "bytes": 2608,
+      "sha256": null
+    },
+    {
+      "path": "processor/chat_template.json",
+      "bytes": 5499,
+      "sha256": null
+    },
+    {
+      "path": "processor/merges.txt",
+      "bytes": 1671839,
+      "sha256": null
+    },
+    {
+      "path": "processor/preprocessor_config.json",
+      "bytes": 390,
+      "sha256": null
+    },
+    {
+      "path": "processor/tokenizer.json",
+      "bytes": 7032403,
+      "sha256": null
+    },
+    {
+      "path": "processor/tokenizer_config.json",
+      "bytes": 11003,
+      "sha256": null
+    },
+    {
+      "path": "processor/video_preprocessor_config.json",
+      "bytes": 385,
+      "sha256": null
+    },
+    {
+      "path": "processor/vocab.json",
+      "bytes": 2776833,
+      "sha256": null
+    },
+    {
+      "path": "scheduler/scheduler_config.json",
+      "bytes": 98,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/chat_template.json",
+      "bytes": 5499,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/config.json",
+      "bytes": 1930,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/merges.txt",
+      "bytes": 1671839,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/model-00001-of-00004.safetensors",
+      "bytes": 4290567132,
+      "sha256": "969e7d251a873d16d3f487d9a5e82f8901132cfac9344530aa4e25ba9338e9e7"
+    },
+    {
+      "path": "text_encoder/model-00002-of-00004.safetensors",
+      "bytes": 4270035088,
+      "sha256": "ff092cd64c489ce4609a08ba5d9f8548591bf835cd98fa4154a7eccd0ea16dfd"
+    },
+    {
+      "path": "text_encoder/model-00003-of-00004.safetensors",
+      "bytes": 4241221712,
+      "sha256": "3dab4af0342cfc9b31839458d059327c7cd1e5be1fe779ded253939cabb36a51"
+    },
+    {
+      "path": "text_encoder/model-00004-of-00004.safetensors",
+      "bytes": 3659204564,
+      "sha256": "628852eb94bd2e3c297d120683f900b49051f236e2cd9d1f26476c30cedc2add"
+    },
+    {
+      "path": "text_encoder/model.safetensors.index.json",
+      "bytes": 159196,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/preprocessor_config.json",
+      "bytes": 390,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/tokenizer.json",
+      "bytes": 7032403,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/tokenizer_config.json",
+      "bytes": 11003,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/video_preprocessor_config.json",
+      "bytes": 385,
+      "sha256": null
+    },
+    {
+      "path": "text_encoder/vocab.json",
+      "bytes": 2776833,
+      "sha256": null
+    },
+    {
+      "path": "tokenizer/merges.txt",
+      "bytes": 1671839,
+      "sha256": null
+    },
+    {
+      "path": "tokenizer/tokenizer.json",
+      "bytes": 7032403,
+      "sha256": null
+    },
+    {
+      "path": "tokenizer/tokenizer_config.json",
+      "bytes": 11003,
+      "sha256": null
+    },
+    {
+      "path": "tokenizer/vocab.json",
+      "bytes": 2776833,
+      "sha256": null
+    },
+    {
+      "path": "transformer/adaln_tables.pt",
+      "bytes": 154971509,
+      "sha256": "2ae3bdebed7d92a71ba930da9cabacafed92c3c2aa550a284f324aba7841a234"
+    },
+    {
+      "path": "transformer/config.json",
+      "bytes": 547,
+      "sha256": null
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model-00001-of-00006.safetensors",
+      "bytes": 5331870504,
+      "sha256": "c1650a7ffce97cc5d0b3b99e226ac237701e753a61d971e6b7870b686876f83a"
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model-00002-of-00006.safetensors",
+      "bytes": 5204410000,
+      "sha256": "d67f2734003051e1723fc55a57d769810f347b0d17af8c7f9c618ef6db6b0056"
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model-00003-of-00006.safetensors",
+      "bytes": 5204410000,
+      "sha256": "cffd8d067f0f85ee378fba7f88b5d6416ceffaa75139f7d4d467abb55c7c3ea7"
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model-00004-of-00006.safetensors",
+      "bytes": 5204410000,
+      "sha256": "db41a003f6d23abf7c64e5709e99e8dc897436da9557f9d33dc4fb1cff03dba0"
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model-00005-of-00006.safetensors",
+      "bytes": 5204410000,
+      "sha256": "1e69e359939bbf2c4fe269d7a0d652ee6fd3c6511a6ace83e079da4479307289"
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model-00006-of-00006.safetensors",
+      "bytes": 1561345392,
+      "sha256": "de2bcf98a5b91da3914853b6524b1138201f98868ee8e38951038b8e30bbac9b"
+    },
+    {
+      "path": "transformer/diffusion_pytorch_model.safetensors.index.json",
+      "bytes": 34166,
+      "sha256": null
+    },
+    {
+      "path": "transformer/nvfp4_weights.safetensors",
+      "bytes": 11921994548,
+      "sha256": "2d620a57e2e3559712b396a279dc3c2aaf4dd70d54a870c25e4c2df60b874a7d"
+    },
+    {
+      "path": "vae/config.json",
+      "bytes": 2012,
+      "sha256": null
+    },
+    {
+      "path": "vae/diffusion_pytorch_model.safetensors",
+      "bytes": 4225603880,
+      "sha256": "73fc5a61caeba438633eb8f8efd3a57f4915adfa46731a1c991312c724a3b5cc"
+    },
+    {
+      "path": "vae/minimax_h3_video_vae_int8_convrot.safetensors",
+      "bytes": 2137493384,
+      "sha256": "f11f8b9b96c9dd22b36bc6c18464b6929c207d247e6d865d90fe31588e58e7e2"
+    }
+  ],
+  "variant": "fasth3-v2-nvfp4",
+  "weights_downloaded": true,
+  "drive_relative_path": "models/base/MiniMax-H3/fasth3-v2-nvfp4/9d0d0d3ae69365aded83fab5562f00f9f06c12aa"
+}

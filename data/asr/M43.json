@@ -1,0 +1,99 @@
+{
+  "file": "M43.mp4",
+  "method": "faster-whisper small CPU int8",
+  "model_revision": "536b0662742c02347bc0e980a01041f333bce120",
+  "text": "嗯先吃饭再思考嘿嘿嘿",
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.12,
+      "text": "嗯",
+      "avg_logprob": -0.6379931403530968,
+      "no_speech_prob": 0.2931865155696869,
+      "words": [
+        {
+          "word": "嗯",
+          "start": 0.0,
+          "end": 1.12,
+          "probability": 0.1721571981906891
+        }
+      ]
+    },
+    {
+      "start": 2.9999999999999996,
+      "end": 4.98,
+      "text": "先吃饭再思考",
+      "avg_logprob": -0.6379931403530968,
+      "no_speech_prob": 0.2931865155696869,
+      "words": [
+        {
+          "word": "先",
+          "start": 2.9999999999999996,
+          "end": 3.62,
+          "probability": 0.47664743661880493
+        },
+        {
+          "word": "吃",
+          "start": 3.62,
+          "end": 3.86,
+          "probability": 0.9953063130378723
+        },
+        {
+          "word": "饭",
+          "start": 3.86,
+          "end": 4.16,
+          "probability": 0.8775452971458435
+        },
+        {
+          "word": "再",
+          "start": 4.16,
+          "end": 4.48,
+          "probability": 0.8297114968299866
+        },
+        {
+          "word": "思",
+          "start": 4.48,
+          "end": 4.72,
+          "probability": 0.8683062791824341
+        },
+        {
+          "word": "考",
+          "start": 4.72,
+          "end": 4.98,
+          "probability": 0.9999042749404907
+        }
+      ]
+    },
+    {
+      "start": 4.98,
+      "end": 7.0,
+      "text": "嘿嘿嘿",
+      "avg_logprob": -0.6379931403530968,
+      "no_speech_prob": 0.2931865155696869,
+      "words": [
+        {
+          "word": "嘿",
+          "start": 4.98,
+          "end": 6.08,
+          "probability": 0.03866701200604439
+        },
+        {
+          "word": "嘿",
+          "start": 6.08,
+          "end": 6.3,
+          "probability": 0.9872317910194397
+        },
+        {
+          "word": "嘿",
+          "start": 6.3,
+          "end": 7.0,
+          "probability": 0.9361575245857239
+        }
+      ]
+    }
+  ],
+  "target": "先吃饭，再思考！",
+  "exact_normalized_match": false,
+  "seconds": 1.9371707589999687,
+  "review_limit": "Automatic ASR is supporting evidence; does not assess voice naturalness."
+}

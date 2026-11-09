@@ -1,0 +1,15 @@
+{
+  "gpu": "G4",
+  "max_seconds": 900,
+  "max_cu": 2.5,
+  "max_rate_cu_per_hour": 12,
+  "min_rate_cu_per_hour": 9,
+  "balance_floor_cu": 10,
+  "stall_seconds": 1800,
+  "automatic_allocation_retries": 0,
+  "monitor_failure_grace_seconds": 45,
+  "monitor_transport_retries": 2,
+  "cleanup_reserve_seconds": 90,
+  "auto_purchase": false,
+  "note": "Publication defaults differ from the explicitly uncapped historical research; no new GPU validation performed."
+}

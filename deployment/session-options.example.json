@@ -1,0 +1,12 @@
+{
+  "session": "example-research",
+  "purpose": "research",
+  "assets_version": "whale-v3",
+  "build_i2v_adaln": false,
+  "code_version": "publication-adaptation",
+  "code_package": {
+    "name": "REBUILD_YOUR_CHECKSUMMED_CODE_PACKAGE.zip",
+    "sha256": "REPLACE_WITH_OWN_SHA256",
+    "bytes": 0
+  }
+}

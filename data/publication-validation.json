@@ -1,0 +1,13 @@
+{
+  "checks_date_local": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "public_privacy_data_and_link_checks": "passed",
+  "media_metadata_review": "passed",
+  "known_private_identifier_comparison": "passed; denylist not exported",
+  "offline_publication_tests": 5,
+  "offline_budget_and_media_and_archive_tests": 20,
+  "source_compilation": "passed",
+  "gpu_revalidation_performed": false,
+  "credential_files_in_publication": false,
+  "git_commit_email_policy": "GitHub account noreply address"
+}

@@ -1,0 +1,46 @@
+{
+  "sample_id": "M42",
+  "input_version": "whale-v1",
+  "seed": 42,
+  "mode": "i2v",
+  "width": 768,
+  "height": 1344,
+  "fps": 24,
+  "frames": 243,
+  "video_seconds": 10.125,
+  "technical_passed": true,
+  "content_passed": false,
+  "generation_seconds": 107.11729641199963,
+  "request_seconds": 109.52814867899997,
+  "one_time_adaln_prefetch_seconds": 0.00026621999950293684,
+  "media_validation_seconds": 0.5958677219996389,
+  "publish_seconds": 0.04749582900058158,
+  "generation_cu_estimate": 0.2990357858168323,
+  "worker_peak_allocated_gib": 42.42716121673584,
+  "worker_peak_reserved_gib": 53.24609375,
+  "video_sha256": "a6398fe19f378f93a30f380bf1e1e8a2fb29d4b4f637deb02e4811d754bea582",
+  "review": {
+    "review_method": "Codex visual inspection of nine decoded frames plus unbiased CPU ASR",
+    "reasons": [
+      "Unrequested Chinese subtitles appear during dialogue",
+      "Blue floating text and red comic emphasis marks appear",
+      "Required clean image is not preserved"
+    ]
+  },
+  "media_qa": {
+    "width": 768,
+    "height": 1344,
+    "fps": 24,
+    "frames": 243,
+    "duration_seconds": 10.125,
+    "video_duration_seconds": 10.125,
+    "container_duration_seconds": 10.125,
+    "audio_sample_rate": 32000,
+    "audio_channels": 2,
+    "audio_samples": 324000,
+    "audio_peak": 0.9344803690910339,
+    "audio_rms": 0.14180891701532278,
+    "decoded": true,
+    "content_review": "not_assessed_by_media_decoder; see top-level content_passed and review"
+  }
+}

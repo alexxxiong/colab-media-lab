@@ -1,0 +1,50 @@
+{
+  "sample_id": "M44",
+  "input_version": "whale-v3",
+  "seed": 44,
+  "mode": "i2v",
+  "width": 768,
+  "height": 1344,
+  "fps": 24,
+  "frames": 243,
+  "video_seconds": 10.125,
+  "technical_passed": true,
+  "content_passed": false,
+  "generation_seconds": 107.151876335,
+  "request_seconds": 107.73980046399993,
+  "one_time_adaln_prefetch_seconds": 0,
+  "media_validation_seconds": 0.5585471819999839,
+  "publish_seconds": 0.032755907000137086,
+  "generation_cu_estimate": 0.29913232143520835,
+  "worker_peak_allocated_gib": 42.038297176361084,
+  "worker_peak_reserved_gib": 50.189453125,
+  "video_sha256": "7d86711c563b07a5e9ac600d9fb7e026db2ab38acbd7ce5304f628e64d8b06ac",
+  "review": {
+    "review_method": "Nine decoded frames and unprompted CPU ASR with word timestamps",
+    "reasons": [
+      "Tail visibly changes direction during the opening 0-2.53 seconds, before the final scripted tail action",
+      "Unprompted ASR returns 限期凡，再思考 rather than the approved sentence; natural clear Mandarin is not verified"
+    ],
+    "improvements": [
+      "No subtitles visible in sampled frames",
+      "Character, rice bowl and single tail remain inside frame"
+    ],
+    "asr_limit": "ASR is supporting evidence, not a definitive human listening judgement"
+  },
+  "media_qa": {
+    "width": 768,
+    "height": 1344,
+    "fps": 24,
+    "frames": 243,
+    "duration_seconds": 10.125,
+    "video_duration_seconds": 10.125,
+    "container_duration_seconds": 10.125,
+    "audio_sample_rate": 32000,
+    "audio_channels": 2,
+    "audio_samples": 324000,
+    "audio_peak": 1.1899738311767578,
+    "audio_rms": 0.15877754973493036,
+    "decoded": true,
+    "content_review": "not_assessed_by_media_decoder; see top-level content_passed and review"
+  }
+}

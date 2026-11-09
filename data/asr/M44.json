@@ -1,0 +1,57 @@
+{
+  "file": "M44.mp4",
+  "method": "faster-whisper small CPU int8",
+  "model_revision": "536b0662742c02347bc0e980a01041f333bce120",
+  "text": "限期凡,再思考。",
+  "segments": [
+    {
+      "start": 2.7800000000000002,
+      "end": 5.64,
+      "text": "限期凡,再思考。",
+      "avg_logprob": -0.5568811893463135,
+      "no_speech_prob": 0.2195788323879242,
+      "words": [
+        {
+          "word": "限",
+          "start": 2.7800000000000002,
+          "end": 3.6,
+          "probability": 0.2093898057937622
+        },
+        {
+          "word": "期",
+          "start": 3.6,
+          "end": 4.0,
+          "probability": 0.902402937412262
+        },
+        {
+          "word": "凡,",
+          "start": 4.0,
+          "end": 4.42,
+          "probability": 0.7580350935459137
+        },
+        {
+          "word": "再",
+          "start": 4.92,
+          "end": 5.04,
+          "probability": 0.9121150374412537
+        },
+        {
+          "word": "思",
+          "start": 5.04,
+          "end": 5.32,
+          "probability": 0.9522298574447632
+        },
+        {
+          "word": "考。",
+          "start": 5.32,
+          "end": 5.64,
+          "probability": 0.999967098236084
+        }
+      ]
+    }
+  ],
+  "target": "先吃饭，再思考！",
+  "exact_normalized_match": false,
+  "seconds": 1.7848109860001387,
+  "review_limit": "Automatic ASR is supporting evidence; does not assess voice naturalness."
+}

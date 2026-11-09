@@ -1,0 +1,299 @@
+[
+  {
+    "id": "480x832-5s",
+    "width": 480,
+    "height": 832,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 5-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 1 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 1 to 2.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 2.5 to 4 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 4 to 5 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 4 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "480x832-10s",
+    "width": 480,
+    "height": 832,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 10-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 2 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 2 to 5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 5 to 8 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 8 to 10 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 8 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "480x832-15s",
+    "width": 480,
+    "height": 832,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 15-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 3 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 3 to 7.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 7.5 to 12 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 12 to 15 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 12 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-5s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 5-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 1 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 1 to 2.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 2.5 to 4 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 4 to 5 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 4 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-10s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 10-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 2 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 2 to 5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 5 to 8 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 8 to 10 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 8 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-15s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 15-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 3 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 3 to 7.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 7.5 to 12 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 12 to 15 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 12 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "1088x1920-5s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 5-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 1 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 1 to 2.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 2.5 to 4 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 4 to 5 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 4 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "1088x1920-10s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 10-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 2 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 2 to 5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 5 to 8 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 8 to 10 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 8 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "1088x1920-15s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 15-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 3 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 3 to 7.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 7.5 to 12 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 12 to 15 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 12 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "832x480-5s",
+    "width": 832,
+    "height": 480,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-832x480.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 5-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 1 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 1 to 2.5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 2.5 to 4 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 4 to 5 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 4 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        274,
+        480
+      ],
+      "offset": [
+        279,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "1344x768-10s",
+    "width": 1344,
+    "height": 768,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1344x768.png",
+    "prompt": "Animate the supplied character reference as a clean, minimal 2D animation. The image contains ONLY the whale girl, her single rice bowl and the plain light-blue background throughout. Keep all written language, captions, speech balloons, punctuation symbols and comic graphics absent from the image. Dialogue belongs only to the soundtrack. Keep the camera stationary and the framing unchanged. This is one continuous 10-second full-body shot with soft cel shading and clear outlines. Preserve her exact round face, blue eyes, long blue hair, navy-white maid outfit, blue-whale apron motif, both hands, feet and one single whale tail attached behind her lower body. Her anatomical LEFT hand steadily supports the same white bowl of rice; her anatomical RIGHT hand is free. From 0 to 2 seconds, she stands quietly, gently blinks once and looks toward the viewer. From 2 to 5 seconds, she gives a small natural wave with her RIGHT hand and smiles happily. In the soundtrack only, a bright natural feminine Mandarin voice says exactly: “先吃饭，再思考！” From 5 to 8 seconds, she visibly lowers her head and directs her open eyes toward the rice in her bowl, then gives a satisfied, slightly proud smile. From 8 to 10 seconds, she looks back toward the viewer, smiles, and gives ONE gentle tail sway to finish. Before 8 seconds her tail stays relaxed and still. Keep her body quiet with small controlled gestures. Keep the background flat and uncluttered, with no added ground detail, shadow graphics, props or effects. Only faint room ambience and soft clothing movement accompany the single spoken line; no music or other speech. There is no visible text anywhere in any frame.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        439,
+        768
+      ],
+      "offset": [
+        452,
+        0
+      ]
+    },
+    "exploratory": false
+  }
+]

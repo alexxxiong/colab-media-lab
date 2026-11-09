@@ -1,0 +1,299 @@
+[
+  {
+    "id": "480x832-5s",
+    "width": 480,
+    "height": 832,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 5 seconds. From 0 to 1s she blinks gently and looks at the viewer. From 1 to 2.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 2.5 to 4s she lowers her gaze to the rice bowl and smiles with satisfaction. From 4 to 5s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "480x832-10s",
+    "width": 480,
+    "height": 832,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 10 seconds. From 0 to 2s she blinks gently and looks at the viewer. From 2 to 5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 5 to 8s she lowers her gaze to the rice bowl and smiles with satisfaction. From 8 to 10s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "480x832-15s",
+    "width": 480,
+    "height": 832,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-480x832.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 15 seconds. From 0 to 3s she blinks gently and looks at the viewer. From 3 to 7.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 7.5 to 12s she lowers her gaze to the rice bowl and smiles with satisfaction. From 12 to 15s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        475,
+        832
+      ],
+      "offset": [
+        2,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-5s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 5 seconds. From 0 to 1s she blinks gently and looks at the viewer. From 1 to 2.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 2.5 to 4s she lowers her gaze to the rice bowl and smiles with satisfaction. From 4 to 5s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-10s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 10 seconds. From 0 to 2s she blinks gently and looks at the viewer. From 2 to 5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 5 to 8s she lowers her gaze to the rice bowl and smiles with satisfaction. From 8 to 10s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "768x1344-15s",
+    "width": 768,
+    "height": 1344,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-768x1344.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 15 seconds. From 0 to 3s she blinks gently and looks at the viewer. From 3 to 7.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 7.5 to 12s she lowers her gaze to the rice bowl and smiles with satisfaction. From 12 to 15s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        768,
+        1344
+      ],
+      "offset": [
+        0,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "1088x1920-5s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 5 seconds. From 0 to 1s she blinks gently and looks at the viewer. From 1 to 2.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 2.5 to 4s she lowers her gaze to the rice bowl and smiles with satisfaction. From 4 to 5s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "1088x1920-10s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 10 seconds. From 0 to 2s she blinks gently and looks at the viewer. From 2 to 5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 5 to 8s she lowers her gaze to the rice bowl and smiles with satisfaction. From 8 to 10s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "1088x1920-15s",
+    "width": 1088,
+    "height": 1920,
+    "seconds": 15,
+    "frames": 362,
+    "actual_seconds": 15.083333333333334,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1088x1920.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 15 seconds. From 0 to 3s she blinks gently and looks at the viewer. From 3 to 7.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 7.5 to 12s she lowers her gaze to the rice bowl and smiles with satisfaction. From 12 to 15s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        1088,
+        1904
+      ],
+      "offset": [
+        0,
+        8
+      ]
+    },
+    "exploratory": true
+  },
+  {
+    "id": "832x480-5s",
+    "width": 832,
+    "height": 480,
+    "seconds": 5,
+    "frames": 124,
+    "actual_seconds": 5.166666666666667,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-832x480.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 5 seconds. From 0 to 1s she blinks gently and looks at the viewer. From 1 to 2.5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 2.5 to 4s she lowers her gaze to the rice bowl and smiles with satisfaction. From 4 to 5s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        274,
+        480
+      ],
+      "offset": [
+        279,
+        0
+      ]
+    },
+    "exploratory": false
+  },
+  {
+    "id": "1344x768-10s",
+    "width": 1344,
+    "height": 768,
+    "seconds": 10,
+    "frames": 243,
+    "actual_seconds": 10.125,
+    "fps": 24,
+    "seed": 42,
+    "grid_points": 9,
+    "image": "first-frame-1344x768.png",
+    "prompt": "A locked-off full-body 2D character sprite animation using the supplied first frame. Maintain the original character size and position for the entire shot, with generous empty margins; both feet, hair, bowl and tail remain inside the frame. The background is a flat blank light blue. Animate only the character with subtle controlled gestures, preserving the original face, blue long hair, navy-white maid outfit, rice bowl in her left hand and exactly one attached whale tail. Continuous duration 10 seconds. From 0 to 2s she blinks gently and looks at the viewer. From 2 to 5s she smiles and waves her free right hand. Soundtrack: a bright natural feminine voice speaks one short Mandarin Chinese sentence once. Its exact pronunciation, given here in numbered pinyin, is xian1 chi1 fan4, zai4 si1 kao3. The meaning is eat first, then think. This phonetic instruction is for audio only. From 5 to 8s she lowers her gaze to the rice bowl and smiles with satisfaction. From 8 to 10s she looks back at the viewer and her tail gives one gentle sway. Her tail is still before that final action. The image stays completely free of typography, subtitles, speech bubbles, symbols and graphic effects. The camera and image scale stay fixed. Only the single spoken line, quiet room ambience and faint cloth sounds; no laughter, additional speech or music.",
+    "resize": {
+      "method": "contain+center-pad",
+      "resample": "Pillow LANCZOS",
+      "fill": "#DDEFFC",
+      "resized_size": [
+        439,
+        768
+      ],
+      "offset": [
+        452,
+        0
+      ]
+    },
+    "exploratory": false
+  }
+]

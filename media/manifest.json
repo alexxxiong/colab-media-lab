@@ -1,0 +1,38 @@
+[
+  {
+    "sample_id": "P04",
+    "path": "media/P04.mp4",
+    "sha256": "1460bf61891d8bd9c807c1920a5e608975849a350ebd64a23be0d34dcf1c4653",
+    "bytes": 2888701,
+    "technical_passed": true,
+    "content_passed": null,
+    "ai_generated": true
+  },
+  {
+    "sample_id": "M42",
+    "path": "media/M42.mp4",
+    "sha256": "a6398fe19f378f93a30f380bf1e1e8a2fb29d4b4f637deb02e4811d754bea582",
+    "bytes": 11908576,
+    "technical_passed": true,
+    "content_passed": false,
+    "ai_generated": true
+  },
+  {
+    "sample_id": "M43",
+    "path": "media/M43.mp4",
+    "sha256": "08e740a19f93d13c3a44b90ad4c5406336ab97877611043d3800f4ba675615b8",
+    "bytes": 13017922,
+    "technical_passed": true,
+    "content_passed": false,
+    "ai_generated": true
+  },
+  {
+    "sample_id": "M44",
+    "path": "media/M44.mp4",
+    "sha256": "7d86711c563b07a5e9ac600d9fb7e026db2ab38acbd7ce5304f628e64d8b06ac",
+    "bytes": 11054719,
+    "technical_passed": true,
+    "content_passed": false,
+    "ai_generated": true
+  }
+]
